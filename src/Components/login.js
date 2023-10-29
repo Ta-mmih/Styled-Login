@@ -47,9 +47,6 @@ const Container = styled.div`
     background: rgb(238,174,202);
     background: linear-gradient(4deg, rgba(238,174,202,1) 9%, rgba(148,187,233,1) 100%);
   }
-  
-  
-  
 `;
 
 const BackgroundImage = styled.img`
